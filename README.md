@@ -1,4 +1,4 @@
-# Face Recognition System
+# Face Verification System
 
 ## Overview
 This project verifies user identity by comparing their face to previously stored data. It captures a face during login and checks if it matches the saved data, making it ideal for secure login systems.
